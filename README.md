@@ -14,7 +14,7 @@ Após algumas pesquisas e buscando inspiração em outras Pokédexs, decidi estr
 
 ### Visualização
 
-Aqui está um link para visualizar como a minha Pokédex está ficando: [link]
+Aqui está um link para visualizar como a minha Pokédex está ficando: [[link](https://devhawnk.github.io/Pokedex/)]
 
 
 
