@@ -1,0 +1,104 @@
+@media screen and (max-width: 1010px) {
+  .title {
+    flex-direction: column-reverse;
+  }
+  .title .subgrid {
+    width: 100%;
+    grid-template-areas: "emoji type" "emoji name" "desc desc" "details details";
+    grid-template-rows: min-content min-content min-content;
+  }
+  .title > .picture {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  .stats {
+    flex-direction: column;
+    width: 100%;
+  }
+  .graphics {
+    width: 100%;
+  }
+  .container {
+    padding-bottom: 100px;
+    min-width: 300px;
+    margin: 0 30px;
+  }
+  .title .name {
+    word-break: break-all;
+  }
+  .picture {
+    width: 200px;
+    height: 200px;
+  }
+  .picture img {
+    height: 200px;
+    width: 200px;
+  }
+  .credits .line {
+    display: block;
+    height: 1px;
+    background-color: #ffffff;
+    width: 100px;
+  }
+  .credits {
+    z-index: 100;
+    position: absolute;
+    left: 0;
+    bottom: 30px;
+    color: #ffffff;
+    width: auto;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+  }
+  .dribbble {
+    padding: 0 10px;
+  }
+  .number {
+    font-size: 30vmax;
+    color: rgba(255, 255, 255, 0.18);
+    user-select: none;
+    right: 0;
+    top: 100px;
+    z-index: 1;
+  }
+  .back,
+  .next {
+    position: absolute;
+    top: 75px;
+    font-size: 24px;
+    z-index: 91;
+  }
+  .back {
+    left: 5%;
+  }
+  .next {
+    right: 5%;
+  }
+}
+
+@media screen and (max-width: 290px) {
+  .title .name {
+    font-size: 3em;
+  }
+  .filter {
+    margin-top: 5px;
+  }
+  .lista {
+    padding-top: 40px;
+  }
+  .back,
+  .next {
+    top: 115px;
+  }
+  .topo {
+    display: block;
+  }
+  .input-box {
+    width: 100%;
+  }
+  .filter {
+    text-align: center;
+  }
+}
