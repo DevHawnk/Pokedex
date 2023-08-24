@@ -17,6 +17,15 @@ Fiz questão de utilizar boas práticas de desenvolvimento, como a separação d
 Acredito que o projeto está bem encaminhado. Ainda há muito o que fazer, mas estou satisfeito com o resultado até agora.
 
 A Pokédex é um projeto que me ajudou a aprender muito sobre HTML, CSS e JavaScript.
+<br>
+# :rocket: Tecnologias
+
+-  [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+-  [HTML](https://www.styled-components.com/)
+-  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+-  [Vue.js](https://vuejs.org/guide/introduction.html)
+
+
 
 ### Visualização
 
