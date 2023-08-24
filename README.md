@@ -9,8 +9,14 @@ aplicação de desafio proposto no Bootcamp-Dio Pokedex em JavaScript
 ### Desenvolvimento
 
 Após algumas pesquisas e buscando inspiração em outras Pokédexs, decidi estruturar a minha da seguinte forma:
+Para o desenvolvimento da Pokédex, utilizei como base alguns layouts que vi no Dribbble. Também pesquisei algumas ferramentas e bibliotecas para me ajudar a começar a chegar onde eu queria com esse projeto.
 
+No início, foi um pouco desafiador entender como tudo funcionava. Mas, com o tempo e a prática, fui aprendendo e evoluindo.
 
+Fiz questão de utilizar boas práticas de desenvolvimento, como a separação de código em componentes e a utilização de CSS bem estruturado.
+Acredito que o projeto está bem encaminhado. Ainda há muito o que fazer, mas estou satisfeito com o resultado até agora.
+
+A Pokédex é um projeto que me ajudou a aprender muito sobre HTML, CSS e JavaScript.
 
 ### Visualização
 
